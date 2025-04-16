@@ -1,0 +1,38 @@
+{
+  "did:web:84fc-118-70-236-74.ngrok-free.app:issuer": {
+    "context": [
+      "https://www.w3.org/ns/did/v1",
+      "https://w3id.org/security/bbs/v1"
+    ],
+    "id": "did:web:84fc-118-70-236-74.ngrok-free.app:issuer",
+    "verificationMethod": [
+      {
+        "id": "did:web:84fc-118-70-236-74.ngrok-free.app:issuer#bbs",
+        "type": "BbsBlsSignature2020",
+        "controller": "did:web:84fc-118-70-236-74.ngrok-free.app:issuer",
+        "publicKeyMultibase": "zU5PzYVxG3pXAJ9HdbcGg9HyKJ6Xwb5YZxCqiMoHxwey3FVCzKCPAyTxgtcqrYKBBLckPeVJ6ieEZodruSio4qE9Z2KdGkHFroDyCJaPRJ1mWEzSb7rQZAJS9LVKo444bRYLJhq"
+      }
+    ],
+    "authentication": [
+      "did:web:84fc-118-70-236-74.ngrok-free.app:issuer#bbs"
+    ]
+  },
+  "did:web:84fc-118-70-236-74.ngrok-free.app:holder": {
+    "context": [
+      "https://www.w3.org/ns/did/v1",
+      "https://w3id.org/security/bbs/v1"
+    ],
+    "id": "did:web:84fc-118-70-236-74.ngrok-free.app:holder",
+    "verificationMethod": [
+      {
+        "id": "did:web:84fc-118-70-236-74.ngrok-free.app:holder#bbs",
+        "type": "BbsBlsSignature2020",
+        "controller": "did:web:84fc-118-70-236-74.ngrok-free.app:holder",
+        "publicKeyMultibase": "zU5Q4fVK9UduSr6fjyBUXogkD6xtsM6iLhWcK8Z1HR2i84vGj3hXbZenSuxJo7L9mLyqh87PDqJSfgR2U5v5pVjXB8uUVV3rRGrQMxrNGeiBmbkYGdYdamZbLDDzXa3qnKTqZUs"
+      }
+    ],
+    "authentication": [
+      "did:web:84fc-118-70-236-74.ngrok-free.app:holder#bbs"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "XRDVRD1U5Yja3HSijmFEsfMHA1y8DRk00s5H8leCSTo=",
+  "Source": "Test DID",
+  "BasePath": "_content/Test DID",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,5 @@
+D:\.NET Project\Test-DID\BbsSignature\obj\Debug\net8.0\BbsSignature.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Project\Test-DID\BbsSignature\obj\Debug\net8.0\BbsSignature.AssemblyInfoInputs.cache
+D:\.NET Project\Test-DID\BbsSignature\obj\Debug\net8.0\BbsSignature.AssemblyInfo.cs
+D:\.NET Project\Test-DID\BbsSignature\obj\Debug\net8.0\BbsSignature.csproj.CoreCompileInputs.cache
+D:\.NET Project\Test-DID\BbsSignature\obj\Debug\net8.0\BbsSignature.sourcelink.json

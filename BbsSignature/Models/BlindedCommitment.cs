@@ -1,4 +1,6 @@
-﻿namespace BbsSignature.Models
+﻿using System.Collections.ObjectModel;
+
+namespace BbsSignature
 {
 
     public class BlindedCommitment

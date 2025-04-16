@@ -1,4 +1,4 @@
-﻿namespace BbsSignature.Models
+﻿namespace BbsSignature
 {
     /// <summary>
     /// Represents a message and its index within a collection

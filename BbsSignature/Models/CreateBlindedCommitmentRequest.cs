@@ -1,6 +1,6 @@
 ﻿using BbsSignature.Keys.BbsSignatures;
 
-namespace BbsSignature.Models
+namespace BbsSignature
 {
     /// <summary>
     /// A request to create a BBS signature that features blinded/committed messages

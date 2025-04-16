@@ -1,6 +1,6 @@
 ﻿using BbsSignature.Keys.BbsSignatures;
 
-namespace BbsSignature.Models
+namespace BbsSignature
 {
     /// <summary>
     /// A request to create a BBS proof from a supplied BBS signature

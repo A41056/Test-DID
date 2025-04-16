@@ -1,6 +1,6 @@
 ﻿using BbsSignature.Keys;
 
-namespace BbsSignature.Models
+namespace BbsSignature
 {
     /// <summary>
     /// A request to verify a BBS signature for a set of messages

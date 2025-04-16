@@ -1,4 +1,4 @@
-﻿namespace BbsSignature.Models
+﻿namespace BbsSignature
 {
     public struct ProofMessage
     {

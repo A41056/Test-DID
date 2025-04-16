@@ -1,6 +1,6 @@
 ﻿using System.Runtime.InteropServices;
 
-namespace BbsSignature.Models
+namespace BbsSignature
 {
     [StructLayout(LayoutKind.Sequential)]
     internal struct ExternError

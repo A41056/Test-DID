@@ -1,6 +1,4 @@
-﻿using BbsSignature.Models;
-
-namespace BbsSignature
+﻿namespace BbsSignature
 {
     public class BbsSignatureService : IBbsSignatureService
     {

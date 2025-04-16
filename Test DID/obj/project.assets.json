@@ -454,6 +454,16 @@
             "related": ".xml"
           }
         }
+      },
+      "BbsSignature/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BbsSignature.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BbsSignature.dll": {}
+        }
       }
     }
   },
@@ -1305,10 +1315,16 @@
         "trinsic.1.13.0.nupkg.sha512",
         "trinsic.nuspec"
       ]
+    },
+    "BbsSignature/1.0.0": {
+      "type": "project",
+      "path": "../BbsSignature/BbsSignature.csproj",
+      "msbuildProject": "../BbsSignature/BbsSignature.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "BbsSignature >= 1.0.0",
       "Microsoft.AspNetCore.Mvc.NewtonsoftJson >= 8.0.15",
       "Microsoft.AspNetCore.OpenApi >= 8.0.13",
       "Multiformats.Base >= 2.0.2",
@@ -1352,7 +1368,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\.NET Project\\Test-DID\\BbsSignature\\BbsSignature.csproj": {
+              "projectPath": "D:\\.NET Project\\Test-DID\\BbsSignature\\BbsSignature.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

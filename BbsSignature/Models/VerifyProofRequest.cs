@@ -1,6 +1,6 @@
 ﻿using BbsSignature.Keys.BbsSignatures;
 
-namespace BbsSignature.Models
+namespace BbsSignature
 {
     /// <summary>
     /// Verify Proof Request
